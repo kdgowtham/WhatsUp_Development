@@ -1,6 +1,7 @@
 package bageorg.java;
 
 public class JimJam {
+	qwerr
 	public static void main(String[] args)
 	{
 		int a[]=new int[5];
