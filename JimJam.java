@@ -1,7 +1,7 @@
 package bageorg.java;
 
 public class JimJam {
-	qwerr
+	
 	public static void main(String[] args)
 	{
 		int a[]=new int[5];
@@ -29,7 +29,15 @@ public class JimJam {
 		}
 		String a1= new String();
 			
-		
+		public void audioCall()
+	
+		{
+			System.out.println("Audio call feature added");
+		}
+		public void videoCall()
+		{
+			System.out println("Video Call feature Added")
+		}
 			
 		
 		
